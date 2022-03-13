@@ -23,7 +23,8 @@ client.chat = new chatBot({
 ```
 
 ***Learn option***
-"Danger"
+
+`Danger`
 > This function will make the bot talk like the people on your server over time
 
 ```js
