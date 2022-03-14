@@ -67,3 +67,6 @@ client.chat = new chatBot({
    client: '879328942664855572',
 })
 ```
+
+> ```diff
++ ChatBot v1.0.0```
