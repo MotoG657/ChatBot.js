@@ -68,5 +68,5 @@ client.chat = new chatBot({
 })
 ```
 
-> ```diff
-+ ChatBot v1.0.0```
+```diff
++ ChatBot.js v1.0.0```
