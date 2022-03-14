@@ -1,4 +1,4 @@
-# blacklist the 
+# blacklist the words
 
 > This function will make the bot not learn forbidden words
 
