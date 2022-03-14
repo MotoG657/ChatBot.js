@@ -29,8 +29,8 @@ client.chat = new chatBot({
 
 ***Learn option***
 
-`Danger`
 > This function will make the bot talk like the people on your server over time
+> `Danger` npm is not responsible for the bot saying absurd and even offensive things. So use the blacklistWords function
 
 ```js
 
