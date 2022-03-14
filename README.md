@@ -2,6 +2,11 @@
 
 A sample npm.js for your chatBots for discord!
 
+**Install**
+```js
+$ npm i chatBot.js
+```
+
 **Request**
 ```js
 //ES6 module
