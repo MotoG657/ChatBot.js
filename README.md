@@ -51,7 +51,7 @@ const array = [
 client.chat = new chatBot({ 
    debug: true,
    learn: true,
-   client: '
+   client: '',
    custom: array
 })
 ```
